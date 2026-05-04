@@ -52,7 +52,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ## 🛠️ For Developers
 
-- Built for **Minecraft 1.21.5**
+- Built for **Minecraft 1.21.11**
 - Requires **Java 21**
 - Uses **Gradle** and **Fabric Loom**
 
